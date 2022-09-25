@@ -1,0 +1,11 @@
+/* styles.css */
+
+div{
+    background-color: blueviolet;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 32px;
+    font-style: oblique;
+}
