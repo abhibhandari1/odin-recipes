@@ -1,11 +1,20 @@
 /* styles.css */
 
-div{
-    background-color: blueviolet;
+.overall {
+    background-color: rebeccapurple;
 }
 
-h1 {
+.header {
     font-family: fantasy;
-    font-size: 32px;
     font-style: oblique;
+}
+
+.links {
+    font-weight: bold;
+}
+
+.header,
+ .links {
+    color: whitesmoke;
+    font-size: 32px;
 }
